@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI - Image Generator",
+  "description": "A professional-grade, dark-themed AI image generation platform powered by Google Gemini, featuring advanced styling options, aspect ratio controls, and reference image support.",
+  "requestFramePermissions": []
+}
